@@ -1,0 +1,97 @@
+html,body{
+    margin:0%;
+}
+body{
+    background-color: rgb(235, 243, 235);
+}
+#fundo{
+    background: url(img/bem-estar.jpg);
+    height:500px;
+    border: 1px solid black;
+    text-align: center;
+}
+#titulo{
+    padding-top: 10%;
+    font-size: 45px;
+
+}
+#subtitulo{
+    padding-bottom: 5%;
+
+}
+#acao{
+    color:white;
+    border:1px solid black; 
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+    background-color: black;
+}
+iframe{
+    align-items: center;
+    padding-top: 10px;
+    padding-left: 400px;
+}
+h3{
+
+    padding: top 40px;
+    text-align: center;
+    font-style: italic;
+    font-size: 30px;
+    margin-left: 500px;
+    margin-right: 500px;
+    color: rgb(15, 15, 15);
+    
+}
+#projeto{
+    padding-top: 2px;
+    text-align:center;
+    margin-left: 50px;
+    margin-right: 50px
+
+}
+        
+p{
+
+    border-style:hidden;
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: rgb(247, 241, 241);
+    margin: 50px;
+    font-size: 17px;
+}
+img{
+    width: 500px;
+    height: 400px;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+footer{
+    background-color: rgb(159, 161, 159);
+  margin-top: 80px;
+  margin-left: 20px;
+  margin-right: 20px;
+  color: black;
+  padding: 0;
+  font-size: 20px;
+  padding: 5px;
+}
+.sobre{
+    background-color: rgb(159, 161, 159);
+    color: black;
+    padding-bottom: 10px;
+    
+}
+.tag{
+    width: 100px;
+    height: 100px;
+}
+
+
+    
+
+
+
+
+
+    
+
